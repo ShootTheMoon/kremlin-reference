@@ -1,0 +1,22 @@
+[
+  {"f":"02.jpg","view":"_other","confidence":"medium","why":"금박 양파돔 여러 기와 상부 개방 회랑·붉은 벽돌 앱스가 보이는 교회 건물로, 파세트궁의 면치기 러스티케이션이 전혀 없어 다른 건물(테렘 교회 계열 돔군)이 주피사체다"},
+  {"f":"04.jpg","view":"_detail","confidence":"high","why":"창 하나와 꼬인 콜로네트, 다이아몬드 커트 블록만 잡은 접사로 동측 파사드인 것은 알 수 있으나 건물 전체 면 구도가 없다"},
+  {"f":"12.jpg","view":"_other","confidence":"high","why":"아르한겔스키 대성당(02번)이 화면 왼쪽을 가득 채운 성당광장 전경이고 파세트궁은 오른쪽 끝에 러스티케이션도 판별 안 될 만큼 작게 걸쳐 있다"},
+  {"f":"20.jpg","view":"3_Front","confidence":"medium","why":"기병 행사 너머로 파세트궁의 백석 다이아몬드 러스티케이션 면이 정면으로 잡히고 오른쪽에 우스펜스키가 있어 ref 19.jpg 와 같은 구도다(다만 말·인파에 하부가 가려 medium)"},
+  {"f":"23.jpg","view":"_detail","confidence":"medium","why":"붉은 계단 위 황실 행렬 인물이 화면 대부분이고 배경에 러스티케이션 벽과 계단 난간 일부만 걸쳐 있어 면 구도로 쓸 수 없다"},
+  {"f":"24.jpg","view":"3_Front","confidence":"high","why":"다이아몬드 커트 러스티케이션 벽면이 화면 중앙에 정면으로 놓이고 왼쪽에 대크렘린궁·붉은 계단 아치, 오른쪽에 리조폴로줴니야 금돔이 있어 ref 05.jpg 와 동일 구도"},
+  {"f":"26.jpg","view":"3_Front","confidence":"high","why":"러스티케이션 면이 화면을 가득 채운 근접 정면 촬영으로 모서리가 거의 보이지 않는다"},
+  {"f":"27.jpg","view":"3_Front","confidence":"high","why":"왼쪽에 블라고베셴스키 금돔군, 오른쪽에 러스티케이션 동측 파사드가 정면으로 서 있어 ref 09/10/11 과 같은 구도"},
+  {"f":"28.jpg","view":"4_Right45","confidence":"high","why":"붉은 계단 쌍아치가 붙은 남면과 러스티케이션 동면이 모서리를 사이에 두고 함께 보이는 남동 모서리 뷰로, ref 14.jpg 와 사실상 동일 구도다(현재 3_Front 는 오배정)"},
+  {"f":"29.jpg","view":"6_Right","confidence":"medium","why":"러스티케이션이 전혀 없는 평활한 남측 파사드가 화면을 가로지르고 오른쪽에 붉은 계단 아치가 있어 ref 01.jpg(6_Right) 계열이다(현재 3_Front 는 오배정)"},
+  {"f":"30.jpg","view":"6_Right","confidence":"medium","why":"붉은 계단 아치까지 이어지는 긴 남측 파사드가 주면이고 다이아몬드 블록이 한 곳도 보이지 않아 동면이 아니다(현재 3_Front 는 오배정)"},
+  {"f":"31.jpg","view":"_detail","confidence":"high","why":"붉은 계단의 아치 한 칸과 철제 격자·화강암 계단만 꽉 차게 잡은 접사로 건물 면이 안 보인다"},
+  {"f":"32.jpg","view":"_detail","confidence":"high","why":"연철 격자 난간과 흰 벽돌 벽면만 찍힌 장식 접사"},
+  {"f":"33.jpg","view":"3_Front","confidence":"high","why":"대크렘린궁(좌)과 우스펜스키(우) 사이에 러스티케이션 동측 파사드가 정면으로 놓인 ref 05.jpg 와 동일 구도"},
+  {"f":"34.jpg","view":"3_Front","confidence":"high","why":"성당광장 광각이지만 러스티케이션 면이 정면을 향하고 좌측 붉은 계단·우측 리조폴로줴니야 배치가 ref 05.jpg 와 일치한다"},
+  {"f":"35.jpg","view":"4_Right45","confidence":"medium","why":"설경의 붉은 계단 쌍아치(남면)가 중앙, 오른쪽에 러스티케이션 동면이 함께 보이는 남동 모서리 뷰다(계단이 크게 잡혀 6_Right 와 경계지만 동면 러스티케이션이 뚜렷해 45도로 본다)"},
+  {"f":"36.jpg","view":"4_Right45","confidence":"high","why":"평활한 남면+붉은 계단 아치와 러스티케이션 동면이 거의 같은 비중으로 보이는 전형적 남동 모서리 뷰로 ref 03/38 과 동일(현재 3_Front 는 오배정)"},
+
+  {"f":"21.jpg","view":"4_Right45","confidence":"high","ref_check":true,"cur":"3_Front","why":"ref 점검: 붉은 계단 쌍아치가 있는 남면과 러스티케이션 동면이 모서리를 끼고 나란히 보이는 남동 모서리 뷰라 3_Front 가 아니라 4_Right45 다"},
+  {"f":"37.jpg","view":"6_Right","confidence":"medium","ref_check":true,"cur":"3_Front","why":"ref 점검: 주면이 러스티케이션 없는 남측 파사드이고 동면 다이아몬드 블록은 화면 오른쪽 끝에 사면으로 조금 걸칠 뿐이라 3_Front 가 아니라 6_Right 다"}
+]

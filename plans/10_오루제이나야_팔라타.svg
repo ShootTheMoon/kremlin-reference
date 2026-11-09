@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="848.93mm" height="902.01mm" viewBox="0 0 84.893 90.201">
+<desc>1 SVG unit = 1 meter. +X=East +Y=North. Anchor 55.7516212N/37.6181220E. Source: OpenStreetMap (ODbL)</desc>
+<rect width="84.893" height="90.201" fill="#ffffff"/>
+<polygon points="58.920,9.938 50.387,7.517 46.403,20.903 53.200,22.639 54.322,25.181 37.488,40.192 30.534,39.087 24.538,44.526 24.802,51.512 13.437,61.626 9.271,65.329 7.517,66.755 8.926,68.468 8.726,70.381 8.676,70.900 8.262,74.825 10.837,77.676 11.175,78.052 14.759,82.032 16.425,81.877 20.617,81.479 21.801,82.684 23.455,81.203 25.929,79.003 64.515,44.603 70.422,39.341 70.924,37.606 77.376,15.188 69.282,16.835 63.306,11.187" fill="#eeeeee" stroke="#000000" stroke-width="0.136"/>
+<line x1="3.758" y1="86.818" x2="13.758" y2="86.818" stroke="#000" stroke-width="0.177"/>
+<line x1="3.758" y1="86.207" x2="3.758" y2="87.429" stroke="#000" stroke-width="0.177"/>
+<line x1="13.758" y1="86.207" x2="13.758" y2="87.429" stroke="#000" stroke-width="0.177"/>
+<text x="7.758" y="85.748" font-size="1.53" font-family="sans-serif">10 m</text>
+<line x1="80.383" y1="14.282" x2="80.383" y2="11.226" stroke="#000" stroke-width="0.177"/>
+<polygon points="80.383,10.309 79.848,11.531 80.918,11.531" fill="#000"/>
+<text x="80.383" y="15.657" font-size="1.53" text-anchor="middle" font-family="sans-serif">N</text>
+<text x="3.758" y="6.013" font-size="1.76" font-family="sans-serif">Оружейная палата / 오루제이나야 팔라타</text>
+<text x="3.758" y="8.305" font-size="1.30" font-family="sans-serif" fill="#555">bbox 69.86 x 75.17 m, area 1986 m2, 30 pts</text>
+</svg>

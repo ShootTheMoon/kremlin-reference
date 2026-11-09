@@ -1,0 +1,16 @@
+# 도면 스캔은 전부 바이너리. git 이 줄바꿈을 건드리면 파일이 깨진다.
+# LFS 는 쓰지 않는다 — 도판은 한 번 올리면 바뀌지 않으므로 히스토리가
+# 부풀 일이 없고, LFS 무료 할당량(1 GB)을 213 MB 로 먹을 이유가 없다.
+*.jpg  binary
+*.jpeg binary
+*.png  binary
+*.pdf  binary
+
+# 텍스트는 UTF-8 · LF 로 통일. 한글 경로가 많아 OS 간 왕복에 민감하다.
+*.md   text eol=lf
+*.txt  text eol=lf
+*.tsv  text eol=lf
+*.py   text eol=lf
+*.svg  text eol=lf
+*.json text eol=lf
+*.html text eol=lf

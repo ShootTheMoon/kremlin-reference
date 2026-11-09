@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2283.06mm" height="3474.05mm" viewBox="0 0 228.306 347.405">
+<desc>1 SVG unit = 1 meter. +X=East +Y=North. Anchor 55.7516212N/37.6181220E. Source: OpenStreetMap (ODbL)</desc>
+<rect width="228.306" height="347.405" fill="#ffffff"/>
+<polygon points="64.128,314.188 72.422,312.939 80.774,311.679 120.048,305.765 156.810,205.881 160.469,207.207 163.389,199.293 166.302,191.367 162.637,190.040 199.355,90.289 138.104,28.950 135.215,29.558 82.553,170.276 81.770,172.376 81.663,172.663 81.544,172.984 78.017,182.479 77.904,182.800 77.791,183.098 76.946,185.376 36.512,293.395 34.457,298.900 31.720,306.218 28.950,313.613 35.810,318.455" fill="#eeeeee" stroke="#000000" stroke-width="0.365"/>
+<line x1="14.475" y1="334.377" x2="64.475" y2="334.377" stroke="#000" stroke-width="0.475"/>
+<line x1="14.475" y1="332.734" x2="14.475" y2="336.021" stroke="#000" stroke-width="0.475"/>
+<line x1="64.475" y1="332.734" x2="64.475" y2="336.021" stroke="#000" stroke-width="0.475"/>
+<text x="34.475" y="331.501" font-size="4.11" font-family="sans-serif">50 m</text>
+<line x1="210.935" y1="55.006" x2="210.935" y2="46.787" stroke="#000" stroke-width="0.475"/>
+<polygon points="210.935,44.321 209.497,47.609 212.374,47.609" fill="#000"/>
+<text x="210.935" y="58.704" font-size="4.11" text-anchor="middle" font-family="sans-serif">N</text>
+<text x="14.475" y="23.160" font-size="4.73" font-family="sans-serif">Арсенал / 아르세날</text>
+<text x="14.475" y="29.325" font-size="3.49" font-family="sans-serif" fill="#555">bbox 170.40 x 289.50 m, area 22260 m2, 25 pts</text>
+</svg>

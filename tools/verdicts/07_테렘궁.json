@@ -1,0 +1,290 @@
+[
+ {
+  "f": "01.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "어두운 실내 벽면을 배경으로 한 금박 조각 양문(兩門) 접사 — 실내 사진"
+ },
+ {
+  "f": "02.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "실내 목제 문짝의 쌍두독수리 조각 접사 — 외부 형태 정보 없음"
+ },
+ {
+  "f": "03.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "프레스코·금문양 볼트 천장과 운모창이 보이는 테렘궁 실내 방"
+ },
+ {
+  "f": "06.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "크렘린 전체를 그린 조감 채색 삽화(지도) — 사진이 아님"
+ },
+ {
+  "f": "07.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "06과 같은 계열의 크렘린 조감 삽화, 테렘 교회 위치 표시용 지도"
+ },
+ {
+  "f": "08.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "실내 벽면에 그려진 페름 주 문장(흰곰) 채색 장식 접사"
+ },
+ {
+  "f": "09.jpg",
+  "view": "7_Back",
+  "confidence": "high",
+  "why": "모호바야 거리에서 본 원경이지만 테렘궁 최상층 테레모크의 마름모 격자 지붕·난간 두른 개방 회랑(гульбище)·계단식 후퇴가 북북서쪽 면으로 또렷이 보임 (정면 166도의 반대면)"
+ },
+ {
+  "f": "10.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "볼트 천장과 체크 무늬 바닥의 홀 — 오래된 실내 사진"
+ },
+ {
+  "f": "11.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "테렘궁 실내 타일 페치카와 채색 벽화가 있는 방"
+ },
+ {
+  "f": "12.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "제목은 windows 지만 실제로는 실내에서 본 스테인드글라스 창 두 짝과 채색 벽면"
+ },
+ {
+  "f": "13.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "실내 벽면 쌍두독수리 부조와 화초 문양 채색 접사"
+ },
+ {
+  "f": "14.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "천개(天蓋) 침대가 있는 녹색 채색 실내 침실"
+ },
+ {
+  "f": "15.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "이콘 벽화와 벤치가 있는 채색 볼트 실내"
+ },
+ {
+  "f": "16.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "이콘 두 점이 걸린 청록 채색 벽면의 실내 방"
+ },
+ {
+  "f": "17.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "이콘 한 점과 벤치가 있는 채색 실내 벽면"
+ },
+ {
+  "f": "18.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "열린 목문 너머 이콘이 보이는 채색 볼트 실내 통로"
+ },
+ {
+  "f": "19.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "실내 채색 타일 페치카 하단과 금문양 벽면 접사"
+ },
+ {
+  "f": "20.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "천개 침대와 타일 페치카가 있는 녹색 채색 실내 침실"
+ },
+ {
+  "f": "21.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "붉은 금문양 벽면과 등받이 의자가 늘어선 실내 홀"
+ },
+ {
+  "f": "22.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "실내를 그린 흑백 판화(점각) — 사진이 아님"
+ },
+ {
+  "f": "23.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "«Русские древности» 잡지에 실린 테렘 실내 석판 삽화 페이지"
+ },
+ {
+  "f": "24.jpg",
+  "view": "7_Back",
+  "confidence": "medium",
+  "why": "겨울 원경이지만 09와 같은 북서쪽 시점에서 테렘궁 마름모 지붕 테레모크와 개방 회랑 난간이 식별됨 (다만 화면 점유가 작아 확신 낮춤)"
+ },
+ {
+  "f": "25.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "«Планъ Терема втораго этажа» 2층 평면도"
+ },
+ {
+  "f": "26.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "«Планъ Терема нижняго этажа» 하층 평면도"
+ },
+ {
+  "f": "27.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "«Планъ Терема третьяго этажа» 3층 평면도"
+ },
+ {
+  "f": "28.jpg",
+  "view": "_notphoto",
+  "confidence": "high",
+  "why": "«Планъ Терема четвертаго этажа» 4층 평면도"
+ },
+ {
+  "f": "29.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (좌측에 대크렘린궁 녹색 팔각 전망정만 곁들여짐)"
+ },
+ {
+  "f": "30.jpg",
+  "view": "_other",
+  "confidence": "high",
+  "why": "주피사체가 흰 벽체에 금돔을 얹은 리조폴로제니야(성모의 옷 안치) 교회이고 테렘 교회 돔군은 좌측 배경일 뿐"
+ },
+ {
+  "f": "31.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "32.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (세피아, 좌측 파세트궁 면치기 러스티케이션이 프레임 가장자리에 걸림)"
+ },
+ {
+  "f": "33.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "34.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (모스크바시티 스카이라인 배경의 부감이지만 궁 본체는 녹색 지붕만 보임)"
+ },
+ {
+  "f": "35.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (콘크리트 난간 너머로 돔 상부만)"
+ },
+ {
+  "f": "36.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "37.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "38.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (앙각으로 돔군과 흰 교회 벽면만)"
+ },
+ {
+  "f": "41.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (흑백 필름)"
+ },
+ {
+  "f": "42.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "43.jpg",
+  "view": "_detail",
+  "confidence": "medium",
+  "why": "빛바랜 옛 사진 — 돔군 아래로 보이는 것은 테렘 교회 서벽의 아케이드 회랑과 보야르 계단이지 테렘궁 계단식 파사드가 아님"
+ },
+ {
+  "f": "44.jpg",
+  "view": "_indoor",
+  "confidence": "high",
+  "why": "말씀부활 교회 이코노스타시스를 찍은 실내 흑백 사진"
+ },
+ {
+  "f": "45.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "46.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가 (설경)"
+ },
+ {
+  "f": "47.jpg",
+  "view": "_other",
+  "confidence": "high",
+  "why": "주피사체가 리조폴로제니야 교회의 앱스와 계단이고 테렘 교회 돔군은 좌측 배경"
+ },
+ {
+  "f": "48.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "49.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "50.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "테렘 교회(베르호스파스키) 금색 양파돔군만 하늘을 배경으로 찍혀 궁 외관 면 판별 불가"
+ },
+ {
+  "f": "40.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "감사: 현재 5_Left. 테렘 교회 돔군만 찍혀 본체 외관이 없다(담당 에이전트 보고)"
+ },
+ {
+  "f": "39.jpg",
+  "view": "_detail",
+  "confidence": "high",
+  "why": "감사: 현재 7_Back. 테렘 교회 돔군만 찍혀 본체 외관이 없다(담당 에이전트 보고)"
+ }
+]

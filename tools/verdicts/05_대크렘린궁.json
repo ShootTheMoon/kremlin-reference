@@ -1,0 +1,23 @@
+[
+  {"f":"08.jpg","view":"_indoor","confidence":"high","why":"실내 홀에서 푸틴과 룰라가 악수하는 인물 사진이라 건물 외관이 전혀 없다"},
+  {"f":"09.jpg","view":"_indoor","confidence":"high","why":"공작석 기둥과 금테 초상화가 걸린 실내 홀의 영접 장면이다"},
+  {"f":"10.jpg","view":"_indoor","confidence":"high","why":"실내 악수 장면 클로즈업으로 벽면·창 등 외관 단서가 없다"},
+  {"f":"11.jpg","view":"_indoor","confidence":"high","why":"08번과 동일한 실내 영접 장면의 다른 컷이다"},
+  {"f":"12.jpg","view":"_indoor","confidence":"high","why":"금테 액자와 붉은 벽이 보이는 실내 인물 사진이다"},
+  {"f":"13.jpg","view":"_indoor","confidence":"high","why":"녹색 공작석 기둥 실내 홀에서의 악수 장면이다"},
+  {"f":"14.jpg","view":"_indoor","confidence":"high","why":"실내 홀 벽면의 차르 초상화와 공작석 기둥이 보이는 영접 장면이다"},
+  {"f":"15.jpg","view":"_indoor","confidence":"high","why":"만찬 테이블에 앉은 인물들을 찍은 실내 사진이다"},
+  {"f":"16.jpg","view":"_indoor","confidence":"high","why":"금장 장식 만찬 테이블의 실내 근접 사진이다"},
+  {"f":"17.jpg","view":"_indoor","confidence":"high","why":"벽면 대형 프레스코 앞 만찬석을 찍은 실내 사진이다"},
+  {"f":"18.jpg","view":"_indoor","confidence":"high","why":"금색 프레스코 볼트로 덮인 만찬 홀 전경으로 완전 실내다"},
+  {"f":"19.jpg","view":"_indoor","confidence":"high","why":"국기를 세운 회담장 긴 테이블의 실내 정상회담 사진이다"},
+  {"f":"20.jpg","view":"_indoor","confidence":"high","why":"샹들리에와 금장 벽면이 있는 회담장 실내 사진이다"},
+  {"f":"21.jpg","view":"_pano","confidence":"high","why":"다리 위에서 찍은 크렘린 전경으로 대궁전은 강·성벽·시내 스카이라인 속 작은 일부일 뿐이다"},
+  {"f":"25.jpg","view":"_other","confidence":"high","why":"루비별 얹은 보로비츠카야 탑이 주피사체인 야경이고 궁 건물은 우측 배경에 일부만 걸쳤다"},
+  {"f":"29.jpg","view":"4_Right45","confidence":"medium","why":"강 건너에서 남면 파사드가 오른쪽(이반 대제 종탑 방향)으로 물러나고 좌측에 서쪽 단부가 보이는 모서리 뷰다"},
+  {"f":"31.jpg","view":"_detail","confidence":"high","why":"벽에 붙은 '승리 훈장' 명판만 찍은 접사라 어느 면인지 판별 불가다"},
+  {"f":"38.jpg","view":"_indoor","confidence":"high","why":"러시아 국기 앞 실내 서훈식 장면으로 외관이 없다"},
+  {"f":"43.jpg","view":"4_Right45","confidence":"medium","why":"높은 곳에서 본 원경이나 남면 파사드가 정면-우측으로 열리고 우측 끝에 이반 대제 종탑이 있어 서쪽 단부가 좌측에 오는 45도 뷰다"},
+  {"f":"44.jpg","view":"4_Right45","confidence":"medium","why":"녹색 지붕과 중앙 금박 돔이 있는 남면이 비스듬히 보이고 우측에 종탑, 좌측에 서쪽 단부가 걸리는 구도다"},
+  {"f":"50.jpg","view":"_notphoto","confidence":"high","why":"크렘린 배치를 그린 채색 조감 삽화(지도)라 사진이 아니다"}
+]

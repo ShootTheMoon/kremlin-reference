@@ -1,0 +1,37 @@
+이 레포의 자료는 한 가지 라이선스로 묶여 있지 않다.
+적용 범위를 아래에 명시한다. 상세는 README.md 와 ATTRIBUTION.md 를 볼 것.
+
+── CC BY 4.0 ───────────────────────────────────────────────────────────
+  plans/
+  docs/MEASUREMENTS.md
+  docs/VIEWS.md
+  docs/PROMPTS.md
+  docs/HUNYUAN_PROMPT_RESEARCH.md
+  docs/camera_coords.tsv
+  tools/
+  drawings/*/INDEX.md
+
+  Creative Commons Attribution 4.0 International
+  https://creativecommons.org/licenses/by/4.0/
+  (단, plans/ 의 기반 폴리곤은 OpenStreetMap — ODbL 1.0, 표시 의무 있음)
+
+── 퍼블릭 도메인 ────────────────────────────────────────────────────────
+  drawings/bartenev-1912/*.jpg
+  drawings/bartenev-1912/towers/**/*.jpg
+
+  С.П. Бартенев (1912). 저자 사후 70년 경과.
+
+── 저작권 상태 미확정 ────────────────────────────────────────────────────
+  drawings/soviet-1953/*.jpg
+
+  『Русское зодчество』 вып.2 (Госстройиздат, 1953) 도판 34장 중 8장.
+  1953년 간행물로 PD 라고 단정할 수 없다. 조사·연구 목적 인용으로
+  수록했다. 상업적 재배포에 쓰지 말 것.
+
+── 파일마다 다름 ────────────────────────────────────────────────────────
+  Release 의 사진 721장 (이 레포에는 없음)
+
+  CC0 / CC BY / CC BY-SA / PD 가 섞여 있다.
+  docs/SOURCES.txt 에서 파일별로 확인할 것.
+  CC BY·CC BY-SA 는 저작자 표시가 의무이고, SOURCES.txt 에는
+  저작자명이 없으므로 Commons 파일 페이지에서 확인해야 한다.
